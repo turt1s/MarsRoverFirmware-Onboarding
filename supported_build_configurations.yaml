@@ -113,3 +113,6 @@ tutorial-servo-pot-control:
 
 tutorial-servo-can-control:
   - UWRT_NUCLEO
+
+tutorial-servo-pwm:
+  - UWRT_NUCLEO
